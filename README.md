@@ -34,7 +34,7 @@ To use the chatbot:
 ## Dependencies
 - Google Cloud Storage
 - Google's Gemini for intelligent conversation flow
-- Other Python libraries as specified in the `requirements.txt` file
+- Other Python libraries also used
 
 ## Configuration
 To configure the chatbot for use:
