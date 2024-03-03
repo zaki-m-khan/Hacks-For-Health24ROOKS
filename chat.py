@@ -19,7 +19,7 @@ EMAIL_KEY = os.getenv('EMAIL_PASS_APP')
 class googleAI:
     def __init__(self):
         # Configure the Google Generative AI model
-        genai.configure(api_key="AIzaSyB0UU_HRhqokEUhr_kr_ogEdij1B3TJv_E")
+        genai.configure(api_key=API_KEY)
 
         generation_config = {
             "temperature": 0.9,
