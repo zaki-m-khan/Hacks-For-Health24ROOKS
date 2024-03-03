@@ -18,6 +18,7 @@ To set up the Personal Mental Health Assistant, follow these steps:
 2. Ensure you have Python installed on your system.
 3. Install the required dependencies using pip:
 4. Set up Google Cloud Services, including Google Cloud Storage and Google's Gemini, as per the project's dependency requirements.
+5. Setting up Google Cloud Services will require you to create an ADC to send data to a bucket you've created
 
 ## Usage
 To use the chatbot:
